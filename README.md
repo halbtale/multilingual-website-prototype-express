@@ -1,3 +1,1 @@
-# Node-Rest-Api-Template
-
-Nodejs Rest Api Template
+# Multilingual website prototype
